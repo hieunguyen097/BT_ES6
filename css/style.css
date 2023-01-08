@@ -316,8 +316,8 @@ ul.todo#todo li .buttons .complete .far{
   display: block;
 }
 
-ul.todo#completed li .buttons .complete .fas{
-  display: block;
+ul.todo#completed li {
+  display: flex;
   color: #25b99a;
 }
 
